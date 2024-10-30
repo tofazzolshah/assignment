@@ -1,0 +1,283 @@
+.bannerimg {
+    margin: 50px 140px;
+    width: 1320px;
+    height: 600px;
+
+}
+
+.offer65 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.banner-discription {
+
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 65px;
+}
+
+.catagories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 5px;
+}
+
+.baneer-img {
+    position: relative;
+
+}
+
+.bannerimg {
+    max-width: 100%;
+    height: auto;
+    border-radius: 16px;
+
+
+
+}
+
+.banner-title {
+    position: absolute;
+    color: blue;
+    top: 188px;
+    left: 445px;
+    /* height: 600px;
+    width: 1320px; */
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+
+
+}
+
+.happynewyear {
+    margin: 0px 399px;
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-bottom: 10px;
+}
+
+.headind1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.heading2 {
+    margin-top: 5px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    height: 190px;
+
+
+}
+
+.midnight {
+    margin: 5px 140px;
+    width: 1320px;
+    height: 600px;
+
+}
+
+.welcome {
+    position: relative;
+}
+
+.midnight {
+    width: 100%;
+    height: auto;
+}
+
+.midnight-description {
+    position: absolute;
+    color: #FFF;
+    top: 126px;
+    left: 266px;
+}
+
+.midnight-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    width: 642px;
+    height: 176px;
+    margin-bottom: 5px;
+}
+
+.midnight-para {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
+    height: 60px;
+    margin-top: 0px;
+}
+
+.join-button {
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px;
+}
+
+/* main related sstyle  */
+.location-box {
+    position: relative;
+    margin-bottom: 120px;
+
+}
+
+.location {
+    width: 100%;
+    height: auto;
+    text-align: justify;
+}
+
+.l-title {
+    position: absolute;
+    top: 126px;
+    left: 266px;
+    width: 549px;
+    height: 168px;
+    font-size: 32px;
+    margin: -41px 386px 229px 322px;
+
+
+}
+
+.j-btn {
+    color: white;
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 0;
+    margin-left: 180px;
+}
+
+.hh {
+    margin-top: -25px;
+    text-align: center;
+}
+
+.L {
+    color: #F00;
+
+}
+
+.locationimg {
+    margin: 15px 140px;
+}
+
+/* bonus mark related style  */
+
+.bonus-mark {
+    width: 100%;
+    margin: 0px 140px 120px 140px;
+}
+
+.new-offer {
+    display: flex;
+}
+
+.newoffer-para {
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 5px;
+}
+
+.rednew-offer {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.Coming {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.newoffer-img {
+    width: 364.844px;
+    height: 364.844px;
+    margin-left: 40px;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 19px;
+    background-color: #FFF;
+
+
+}
+
+.section2 {
+    margin-left: 90px;
+}
+
+.yer-2024 {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.yer-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 276px;
+}
+.happy{
+    width: 140px;
+    height: 140px;
+}
